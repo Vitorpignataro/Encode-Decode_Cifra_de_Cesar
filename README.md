@@ -1,6 +1,6 @@
 # Cifra de César 
 
-A cifra de César é oriunda do histórico Júlio César, conta-se que Júlio utilizava esta codificação em suas mensagens enviadas a seus representantes militares, quando representavam devida importância, para isso ele utilizava um método de substituição no alfabeto relativamente fácil, onde cada letra era substituída pela letra localizada três posições a frente, exemplo a letra A seria substituída pela letra D, J por M...
+A cifra de César é oriunda do histórico Júlio César, conta-se que Júlio utilizava esta codificação em suas mensagens enviadas para seus representantes militares quando representavam devida importância, para isso ele utilizava um método de substituição no alfabeto relativamente fácil, onde cada letra era substituída pela letra localizada três posições a frente, exemplo a letra A seria substituída pela letra D, J por M...
 
 # CifradeCesar.py
 
